@@ -10,12 +10,12 @@
     文件目录my_project/adi.sql
 
 **server文件夹下cmd命令：**
-   `npm install`
+1. `npm install`
 2. `node app.js`
 
 **web文件夹下cmd命令：**
 
-1. `npm install`
+
 2. `npm run serve`
 
 
